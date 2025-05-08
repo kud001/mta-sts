@@ -1,4 +1,3 @@
 version: STSv1
-mode: enforce
-mx: kudirka-de.mail.protection.outlook.com
+mode: none
 max_age: 604800
